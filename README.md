@@ -6,7 +6,7 @@ Sistema de login utilizando o email para logar.
 - O usuário deverá logar utilizando o email "admin@admin.com"
 - Logar com a senha "1234"
 - Caso o login seja feito corretamente, aparecerá um popup com a mensagem: "Login successful", caso contrário, aparecerá "Login Failed".
-- Os links "Esqueci minha senha" e "Cadastre-se" são links "fantasmas", ou seja, não estão em funcionamento.
+- Os links "Esqueci minha senha" e "Cadastre-se" são links "fantasmas", ou seja, não lhe levará a nenhum local.
 
 # Observações sobre o sistema
 Projeto escolar, com a finalidade de aprimorar as técnicas de HTML, CSS e JavaScript, paralém disso, o projeto sofrerá alterações futuramente.
